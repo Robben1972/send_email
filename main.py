@@ -21,7 +21,6 @@ while True:
     else:
         print("Choose again")
 
-        # "bozorovshahob27@gmail.com": "dapqtmlkkjfgljnb",
 
 
 
